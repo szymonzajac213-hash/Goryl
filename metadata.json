@@ -1,0 +1,6 @@
+{
+  "name": "Goryl Miner: Chipsowa Ekspansja",
+  "description": "Rozbudowana gra idle/clicker z 22 światami, systemem bossów, 18 pomocnikami, ekwipunkiem, kowalnią przypraw, prestiżem i proceduralnym dźwiękiem Web Audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
